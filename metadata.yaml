@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27608#Bollettino-del-Club-Alpino-Italiano-1895-96Vol.-29-Num.-62
 gutenberg_bookshelf: IT Geografia
 gutenberg_issued: '2008-12-24'
 gutenberg_type: Text
